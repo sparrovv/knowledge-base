@@ -10,9 +10,8 @@
 <node CREATED="1284185162573" ID="Freemind_Link_1076909138" MODIFIED="1284185165728" TEXT="the most recent commit in the current branch"/>
 </node>
 <node CREATED="1284205532091" ID="Freemind_Link_329961638" MODIFIED="1284205599745" TEXT="master - basic branch, on which"/>
-<node CREATED="1284184795574" ID="Freemind_Link_1673794690" MODIFIED="1284184807129" TEXT="origin">
-<node CREATED="1284359798594" ID="Freemind_Link_658877607" MODIFIED="1284359821805" TEXT="default name of remote repository"/>
-</node>
+<node CREATED="1284184793654" ID="Freemind_Link_608948484" MODIFIED="1284184794922" TEXT="head"/>
+<node CREATED="1284184795574" ID="Freemind_Link_1673794690" MODIFIED="1284184807129" TEXT="origin"/>
 <node CREATED="1284184987465" ID="Freemind_Link_629018137" MODIFIED="1284184990825" TEXT="commit">
 <node CREATED="1284184991314" ID="Freemind_Link_1464229207" MODIFIED="1284184998137" TEXT="revision"/>
 </node>
@@ -54,6 +53,7 @@
 <node CREATED="1284136977676" ID="Freemind_Link_27305456" MODIFIED="1284137050698" TEXT="git diff HEAD - show changes in working dir since last commit"/>
 <node CREATED="1284137051726" ID="Freemind_Link_1150908882" MODIFIED="1284137528952" TEXT="git diff commit:fiel commit2:file"/>
 </node>
+<node CREATED="1283805941119" ID="Freemind_Link_780277526" MODIFIED="1283805944058" POSITION="left" TEXT="Hooks"/>
 <node CREATED="1283805945550" ID="Freemind_Link_690187013" MODIFIED="1283977751520" POSITION="left" TEXT="Stash">
 <node CREATED="1283977752530" ID="Freemind_Link_1668307928" MODIFIED="1283978149682" TEXT="place in the stash work you are doing "/>
 <node CREATED="1283978156998" ID="Freemind_Link_157567127" MODIFIED="1283978167177" TEXT="git stash - put on stash"/>
